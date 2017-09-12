@@ -4,7 +4,7 @@ O desafio proposto consiste numa **landing page** simulando um encurtador de lin
 
 ### Instruções
 
-- Aceitar a tarefa disponível na nossa sala do GitHub em: 
+- Aceitar a tarefa disponível na nossa sala do GitHub em: https://classroom.github.com/a/R_3C41QS
 - O seu objetivo principal é transformar o mockup disponível em /Layout/Preview.jpg em um protótipo funcional HTML/CSS/JS;
 - No seu projeto, crie um diretório chamado `project`. Todos os arquivos que você criar devem estar dentro desta pasta;
 - Assim que concluir o seu desafio, suba suas alterações com o comando push.
